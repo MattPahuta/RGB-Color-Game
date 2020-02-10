@@ -75,7 +75,5 @@ button:hover {
 }
 
 button:focus {
-  /* outline-color: -webkit-focus-ring-color; */
   outline-style: none;
-  /* outline-width: 1px; */
 }
